@@ -47,26 +47,6 @@ have been tried to verify the codes by regenerating the plots in the book and an
 
 `rokpy` package is organized into following modules
 
-rokpy
-├── effective_medium
-│ ├── bound_methods
-│ ├── inclusion_methods
-│ ├── contact_methods
-│ ├── fluid_methods
-│ ├── empirical_methods
-│ └── qfactor_methods
-├── materials
-├── models
-├── AVO
-├── fluid_properties
-├── backus
-├── constants
-├── utilities
-├── conversions
-└── visualization
-
-where
-
 | Module | Description |
 | --- | --- |
 | `effective_medium` | Library of different effective medium relations |
