@@ -64,7 +64,7 @@ have been tried to verify the codes by regenerating the plots in the book and an
 
 For a detailed documentation of the package see:
 
-[https://rokpy.readthedocs.io/en/latest/]([rokpy Documentation](https://rokpy.readthedocs.io/en/latest/))
+[https://rokpy.readthedocs.io/en/latest/](https://rokpy.readthedocs.io/en/latest/)
 
 # Tutorials
 
