@@ -1,4 +1,4 @@
-![A ObjectOrient Python Package for Rock Physics Modeling](file://C:\Users\MAbbasi\MEGA\Python\Projects\rokpy\rokpy.png?msec=1787739348703)
+![A ObjectOrient Python Package for Rock Physics Modeling](rokpy.png)
 
 # What is rokpy?
 
