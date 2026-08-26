@@ -2,11 +2,10 @@
 
 # What is rokpy?
 
-What is rokpy?
-
 `rokpy` is a comprehensive object-oriented Python package for building and tuning rock-physics models.
 
 **by: Mostafa Abbasi**
+
 
 # Installation
 
