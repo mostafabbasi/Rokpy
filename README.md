@@ -14,6 +14,24 @@ To install the package, simply use the following pip command in your terminal:
 ```bash
 pip install rokpy
 ```
+# Documentaion
+
+For a detailed documentation of the package see:
+
+[https://rokpy.readthedocs.io/en/latest/](https://rokpy.readthedocs.io/en/latest/)
+
+# Tutorials
+
+The package has an `examples` directory containing some tutorials notebooks. This tutorials give you a good primary outlook to implement different models and codes. These notebooks also show you different capabilities of the codes beyond just modeling.
+
+Don't limit yourself to these notebooks and also dive into the documentations to explore different classes, attributes and functions.
+
+You may also find these tutorials at:
+
+[https://rokpy.readthedocs.io/en/latest/tutorials/](https://rokpy.readthedocs.io/en/latest/tutorials/)
+
+
+
 
 # Introduction
 
@@ -58,22 +76,6 @@ have been tried to verify the codes by regenerating the plots in the book and an
 | `utilities` | Set of auxilliary tools and relations used throughout the package |
 | `conversions` | Library of functions to convert different elastic properties |
 | `visualization` | Well-log plotting tools |
-
-# Documentaion
-
-For a detailed documentation of the package see:
-
-[https://rokpy.readthedocs.io/en/latest/](https://rokpy.readthedocs.io/en/latest/)
-
-# Tutorials
-
-The package has an `examples` directory containing some tutorials notebooks. This tutorials give you a good primary outlook to implement different models and codes. These notebooks also show you different capabilities of the codes beyond just modeling.
-
-Don't limit yourself to these notebooks and also dive into the documentations to explore different classes, attributes and functions.
-
-You may also find these tutorials at:
-
-[https://rokpy.readthedocs.io/en/latest/tutorials/](https://rokpy.readthedocs.io/en/latest/tutorials/)
 
 # An Example
 
