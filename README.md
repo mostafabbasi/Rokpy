@@ -6,7 +6,6 @@
 
 **by: Mostafa Abbasi**
 
-
 # Installation
 
 To install the package, simply use the following pip command in your terminal:
@@ -14,6 +13,7 @@ To install the package, simply use the following pip command in your terminal:
 ```bash
 pip install rokpy
 ```
+
 # Documentaion
 
 For a detailed documentation of the package see:
@@ -29,9 +29,6 @@ Don't limit yourself to these notebooks and also dive into the documentations to
 You may also find these tutorials at:
 
 [https://rokpy.readthedocs.io/en/latest/tutorials/](https://rokpy.readthedocs.io/en/latest/tutorials/)
-
-
-
 
 # Introduction
 
@@ -64,18 +61,18 @@ have been tried to verify the codes by regenerating the plots in the book and an
 
 `rokpy` package is organized into following modules
 
-| Module | Description |
-| --- | --- |
-| `effective_medium` | Library of different effective medium relations |
-| `materials` | Rich classes of different materials such as Rocks, Minerals and Fluids |
-| `models` | Library wrapping theoritical and empirical relations into easy to use models |
-| `AVO` | Library of forward AVO relations |
-| `fluid_properties` | Library of relations to calculate in-situ fluid properties |
-| `backus` | Library of relations to estimate the effective average (Backus) properties |
-| `constants` | Reference tables of standard constans and empirical coefficients |
-| `utilities` | Set of auxilliary tools and relations used throughout the package |
-| `conversions` | Library of functions to convert different elastic properties |
-| `visualization` | Well-log plotting tools |
+| Module             | Description                                                                  |
+| ------------------ | ---------------------------------------------------------------------------- |
+| `effective_medium` | Library of different effective medium relations                              |
+| `materials`        | Rich classes of different materials such as Rocks, Minerals and Fluids       |
+| `models`           | Library wrapping theoritical and empirical relations into easy to use models |
+| `AVO`              | Library of forward AVO relations                                             |
+| `fluid_properties` | Library of relations to calculate in-situ fluid properties                   |
+| `backus`           | Library of relations to estimate the effective average (Backus) properties   |
+| `constants`        | Reference tables of standard constans and empirical coefficients             |
+| `utilities`        | Set of auxilliary tools and relations used throughout the package            |
+| `conversions`      | Library of functions to convert different elastic properties                 |
+| `visualization`    | Well-log plotting tools                                                      |
 
 # An Example
 
