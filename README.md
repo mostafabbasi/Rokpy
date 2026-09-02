@@ -33,20 +33,22 @@ You may also find these tutorials at:
 # Introduction
 
 `rokpy` is a comprehensive python package for Rock-physical modeling that includes a wide variety of models and relations. the package follows 
-an object-oriented programming (OOP) scheme for modeling the rock and its components. According to this scheme, a rock is object with many 
-different attributes such as porosity, minerals, fluids, inclusions, etc. and also many different properties such as velocities, bulk and shear 
+an object-oriented programming (OOP) scheme for modeling the rock and its components. According to this scheme, a rock is an object with 
+different attributes such as porosity, minerals, fluids, inclusions, etc. and also many properties such as velocities, bulk and shear 
 moduli, density, etc. All these properties are already included into a rock (or any of its components), therefore, It doesn't require the user 
-to write code for any of these features.
+to write code for these features, anymore.
 
-Once a rock model is build and it's hyper parameters such as pore shapes or fluid and mineral properties are fine-tuned for a given formation in 
-a filed, one may use the model for another field. Therefore, using the `rokpy`, you may **"Model here, apply there"**.
+Once a rock model is built and it's hyper parameters such as pore shapes or fluid and mineral properties are fine-tuned for a given formation of 
+a filed, you may use the model for similar field. Therefore, using the `rokpy`, you may **"Model here, apply there"**. Accordingly, you may easily setup a 
+library of rock models corresponding to different formations in the study area.
 
-In addition to pre-designed models of rock and its components, these users may also use an extensive library of rock-physical relations and methods
+
+In addition to pre-designed models of rock and its components, users may also use an extensive library of rock-physical relations and methods
 to build their own models from the scratch. These methods are categorized into different modules such as **bound methods**, **inclusion methods**, **contact methods** and **fluid effect methods**.
 
 The package methods are mainly written on the basis of the formulations and descriptions given in *The Rock-Physics handbook (Mavko et al., 2020)*,
 however, the methods are not limited to this book and many other key literatures are also reviewed to build the package. It worth noting that I 
-have been tried to verify the codes by regenerating the plots in the book and and corresponding papers.
+have been tried to verify the codes by regenerating the plots in the original literatures.
 
 # Highlights
 
